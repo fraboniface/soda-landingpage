@@ -32,6 +32,7 @@ layout: default
   <a href="{{ site.data.app.web }}" class="app__button-web" target="_blank"><img src="/assets/images/pwa-badge.png" alt="Go to website"></a>
   {% endif %}
 </div>
+{% if site.data.app.screenshots != false %}
 <section class="app__screenshots app__section">
   <div class="container">
     <h2 class="app__section-title">{{ site.data.strings.app.screenshots }}</h2>
@@ -46,12 +47,14 @@ layout: default
     </div>
   </div>
 </section>
+{% endif %}
 <section class="app__fulldescription app__section container">
   <h2 class="app__section-title">{{ site.data.strings.app.description }}</h2>
   <div class="app__fulldescription-content">
     <p>{{ site.data.app.full_description }}</p>
   </div>
 </section>
+{% if site.data.app.screenshots != false %}
 <section class="app__featured app__section container">
   <h2 class="app__section-title">{{ site.data.strings.app.featured }}</h2>
   <div class="app__featured-content">
@@ -62,3 +65,4 @@ layout: default
     {% endfor %}
   </div>
 </section>
+{% endif %}

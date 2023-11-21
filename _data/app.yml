@@ -1,19 +1,21 @@
 name: Soda
 description: Pop your bubble
-full_description: 'The social app that actually makes your life better. Coming soon.<br>
-<br>- Event planning
-<br>- Social games
-<br>- Meet new people'
-#android: https://telegra.ph/Replace-this-link-07-23
-#iOS: https://telegra.ph/Replace-this-link-07-23
-#web: https://telegra.ph/Replace-this-link-07-23
-#screenshots:
+full_description: 'The social app that actually makes your life better.<br>
+<br>- Plan events
+<br> - Animate your community
+<br>- Play real life social games
+<br>- Meet new people<br>
+<br>Coming soon.'
+android: https://play.google.com/store/apps/details?id=com.soda.android
+iOS: https://testflight.apple.com/join/yoxlxirG
+web: false
+screenshots: false
 #  - 1.png
 #  - 2.png
 #  - 3.png
 #  - 4.png
 #producthunt: https://telegra.ph/Replace-this-link-07-23
-#companies:
+companies: false
 #  - url: https://telegra.ph/Replace-this-link-07-23
 #    image: androidpolice.png
 #  - url: https://telegra.ph/Replace-this-link-07-23
