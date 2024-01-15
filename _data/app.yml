@@ -1,12 +1,13 @@
-name: Soda
-description: Pop your bubble
-full_description: 'The social app that actually makes your life better.<br>
-<br>- Plan events
-<br> - Animate your community
-<br>- Play real life social games
-<br>- Meet new people<br>
+name: Weavus
+description: Shared events 3.0
+full_description: 'The social app that gives you back your time and social life.
+<br>
+<br>- Plan events with your friends, family or community.
+<br>- Plan centrally (birthday, wedding...) or collaboratively (weekend, vacation).
+<br>- Manage expenses, share high quality photos and videos.
+<br>
 <br>Coming soon.'
-android: https://play.google.com/store/apps/details?id=com.soda.android
+android: https://play.google.com/store/apps/details?id=com.weavus
 iOS: https://testflight.apple.com/join/yoxlxirG
 web: false
 screenshots: false
