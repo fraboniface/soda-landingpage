@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "GG9L66QXNV.com.weavus",
+        "paths": ["*"]
+      }
+    ]
+  }
+}

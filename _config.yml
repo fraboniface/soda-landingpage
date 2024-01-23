@@ -48,6 +48,9 @@ plugins:
   - octopress-minify-html
   - amp-jekyll
 
+include:
+  - ".well-known"
+
 ### Exclude from processing.
 exclude:
   - Gemfile
