@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.weavus",
+        "sha256_cert_fingerprints": [
+          "3D:3F:33:41:D9:65:D7:2D:DD:26:60:31:00:3A:07:D5:DE:93:87:65:21:37:B7:AF:EB:5F:F4:DE:1A:50:F6:8B"
+        ]
+      }
+    }
+]
