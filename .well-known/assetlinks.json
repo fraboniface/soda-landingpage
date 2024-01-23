@@ -7,7 +7,8 @@
         "namespace": "android_app",
         "package_name": "com.weavus",
         "sha256_cert_fingerprints": [
-          "3D:3F:33:41:D9:65:D7:2D:DD:26:60:31:00:3A:07:D5:DE:93:87:65:21:37:B7:AF:EB:5F:F4:DE:1A:50:F6:8B"
+          "3D:3F:33:41:D9:65:D7:2D:DD:26:60:31:00:3A:07:D5:DE:93:87:65:21:37:B7:AF:EB:5F:F4:DE:1A:50:F6:8B",
+          "65:C7:05:E0:D2:78:21:98:A7:53:E6:F4:2B:5A:BC:89:5E:C3:9F:4C:FF:02:A8:36:A8:71:07:4B:FA:75:E6:4F"
         ]
       }
     }
