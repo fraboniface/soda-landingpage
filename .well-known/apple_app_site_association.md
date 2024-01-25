@@ -1,3 +1,8 @@
+---
+layout: null
+permalink: /.well-known/apple-app-site-association
+content_type: application/json
+---
 {
   "applinks": {
       "apps": [],
