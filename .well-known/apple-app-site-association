@@ -1,0 +1,16 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "GG9L66QXNV.com.weavus",
+        "components": [
+          {
+            "/": "/e/*",
+            "comment": "Matches any URL of the type /e/potentialEventPublicId"
+          }
+        ]
+      }
+    ]
+  }
+}
